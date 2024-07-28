@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example.anonymizedService","l":"anonymize_Service"},{"p":"org.example.tcp","l":"client_java_tcp"},{"p":"org.example.udp","l":"client_java_udp"},{"p":"org.example","l":"Main"},{"p":"org.example.tcp","l":"server_java_tcp"},{"p":"org.example.udp","l":"server_java_udp"}];updateSearchResults();
